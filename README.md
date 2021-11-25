@@ -21,7 +21,9 @@ Reflect in persistence layers on SQL</p>
 <div>JavaScript: it is a programming language, commonly use with web browsers</div></br>
 <b>Back end: Python, Sqlite</b>
 <div>Python/Django : Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers.</div>
-<div>Sqlite: Sqlite is a database, widely used for accessing querying, updating, and managing data in databases.</div>
+<div>Sqlite: Sqlite is a database, widely used for accessing querying, updating, and managing data in databases.</div></br>
+
+Website link: http://pranaygurrapu02.pythonanywhere.com/
 
 ## Quick Start
 
