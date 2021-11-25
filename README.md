@@ -23,7 +23,7 @@ Reflect in persistence layers on SQL</p>
 <div>Python/Django : Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers.</div>
 <div>Sqlite: Sqlite is a database, widely used for accessing querying, updating, and managing data in databases.</div></br>
 
-Website link: http://pranaygurrapu02.pythonanywhere.com/
+Website link: http://pranaygurrapu123.pythonanywhere.com/
 
 ## Quick Start
 
